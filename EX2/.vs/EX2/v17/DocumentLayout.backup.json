@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\massi\\source\\repos\\deadlyjoke\\vb.net-\\EX2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{409A96EF-28A4-4426-B60E-567DD95D2CA7}|EX2.vbproj|c:\\users\\massi\\source\\repos\\deadlyjoke\\vb.net-\\ex2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{409A96EF-28A4-4426-B60E-567DD95D2CA7}|EX2.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409A96EF-28A4-4426-B60E-567DD95D2CA7}|EX2.vbproj|c:\\users\\massi\\source\\repos\\deadlyjoke\\vb.net-\\ex2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{409A96EF-28A4-4426-B60E-567DD95D2CA7}|EX2.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\massi\\source\\repos\\deadlyjoke\\vb.net-\\EX2\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\massi\\source\\repos\\deadlyjoke\\vb.net-\\EX2\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-25T01:37:32.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\massi\\source\\repos\\deadlyjoke\\vb.net-\\EX2\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\massi\\source\\repos\\deadlyjoke\\vb.net-\\EX2\\Form1.vb [\u8A2D\u8A08]",
+              "RelativeToolTip": "Form1.vb [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-25T01:34:20.603Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
