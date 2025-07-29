@@ -22,83 +22,78 @@ Partial Class Form1
     '請勿使用程式碼編輯器進行修改。
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.btnMax = New System.Windows.Forms.Button()
         Me.Label1 = New System.Windows.Forms.Label()
-        Me.Label2 = New System.Windows.Forms.Label()
         Me.txtInput = New System.Windows.Forms.TextBox()
+        Me.Label2 = New System.Windows.Forms.Label()
         Me.txtResult = New System.Windows.Forms.TextBox()
+        Me.btnMax = New System.Windows.Forms.Button()
         Me.SuspendLayout()
-        '
-        'btnMax
-        '
-        Me.btnMax.Location = New System.Drawing.Point(202, 249)
-        Me.btnMax.Margin = New System.Windows.Forms.Padding(4, 3, 4, 3)
-        Me.btnMax.Name = "btnMax"
-        Me.btnMax.Size = New System.Drawing.Size(92, 39)
-        Me.btnMax.TabIndex = 0
-        Me.btnMax.Text = "計算"
-        Me.btnMax.UseVisualStyleBackColor = True
         '
         'Label1
         '
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("新細明體", 12.0!)
-        Me.Label1.Location = New System.Drawing.Point(159, 36)
-        Me.Label1.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
+        Me.Label1.Location = New System.Drawing.Point(141, 59)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(199, 16)
-        Me.Label1.TabIndex = 1
+        Me.Label1.TabIndex = 0
         Me.Label1.Text = "請輸入以，分開之一串數字"
+        '
+        'txtInput
+        '
+        Me.txtInput.Font = New System.Drawing.Font("新細明體", 9.0!)
+        Me.txtInput.Location = New System.Drawing.Point(64, 105)
+        Me.txtInput.Name = "txtInput"
+        Me.txtInput.Size = New System.Drawing.Size(343, 22)
+        Me.txtInput.TabIndex = 1
         '
         'Label2
         '
         Me.Label2.AutoSize = True
-        Me.Label2.Font = New System.Drawing.Font("新細明體", 10.0!)
-        Me.Label2.Location = New System.Drawing.Point(61, 180)
-        Me.Label2.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
+        Me.Label2.Font = New System.Drawing.Font("新細明體", 12.0!)
+        Me.Label2.Location = New System.Drawing.Point(61, 186)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(77, 14)
+        Me.Label2.Size = New System.Drawing.Size(87, 16)
         Me.Label2.TabIndex = 2
         Me.Label2.Text = "最大值為："
         '
-        'txtInput
-        '
-        Me.txtInput.Location = New System.Drawing.Point(45, 84)
-        Me.txtInput.Margin = New System.Windows.Forms.Padding(4, 3, 4, 3)
-        Me.txtInput.Name = "txtInput"
-        Me.txtInput.Size = New System.Drawing.Size(415, 23)
-        Me.txtInput.TabIndex = 3
-        '
         'txtResult
         '
-        Me.txtResult.Location = New System.Drawing.Point(146, 177)
-        Me.txtResult.Margin = New System.Windows.Forms.Padding(4, 3, 4, 3)
+        Me.txtResult.Location = New System.Drawing.Point(154, 180)
         Me.txtResult.Name = "txtResult"
-        Me.txtResult.Size = New System.Drawing.Size(94, 23)
-        Me.txtResult.TabIndex = 4
+        Me.txtResult.Size = New System.Drawing.Size(100, 22)
+        Me.txtResult.TabIndex = 3
+        '
+        'btnMax
+        '
+        Me.btnMax.Font = New System.Drawing.Font("新細明體", 12.0!)
+        Me.btnMax.Location = New System.Drawing.Point(188, 236)
+        Me.btnMax.Name = "btnMax"
+        Me.btnMax.Size = New System.Drawing.Size(84, 46)
+        Me.btnMax.TabIndex = 4
+        Me.btnMax.Text = "計算"
+        Me.btnMax.UseVisualStyleBackColor = True
         '
         'Form1
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 13.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 12.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(517, 352)
-        Me.Controls.Add(Me.txtResult)
-        Me.Controls.Add(Me.txtInput)
-        Me.Controls.Add(Me.Label2)
-        Me.Controls.Add(Me.Label1)
+        Me.ClientSize = New System.Drawing.Size(485, 334)
         Me.Controls.Add(Me.btnMax)
-        Me.Font = New System.Drawing.Font("新細明體", 10.0!)
-        Me.Margin = New System.Windows.Forms.Padding(4, 3, 4, 3)
+        Me.Controls.Add(Me.txtResult)
+        Me.Controls.Add(Me.Label2)
+        Me.Controls.Add(Me.txtInput)
+        Me.Controls.Add(Me.Label1)
         Me.Name = "Form1"
-        Me.Text = "尋找array最大值"
+        Me.Text = "Form1"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
     End Sub
 
-    Friend WithEvents btnMax As Button
     Friend WithEvents Label1 As Label
-    Friend WithEvents Label2 As Label
     Friend WithEvents txtInput As TextBox
+    Friend WithEvents Label2 As Label
     Friend WithEvents txtResult As TextBox
+    Friend WithEvents btnMax As Button
 End Class

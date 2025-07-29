@@ -1,12 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\massi\\source\\repos\\deadlyjoke\\vb.net-\\EX2\\",
+  "WorkspaceRootPath": "C:\\Users\\massi\\source\\repos\\deadlyjoke\\vb.net_exercise\\EX2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{409A96EF-28A4-4426-B60E-567DD95D2CA7}|EX2.vbproj|\\\\nt-ym1\\devsrc\\users\\poyu\\\u65B0\u4EBA_rd\\\u5289\u82E5\u6885\\ex2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{4852E86C-6332-42DC-B7C6-465C169CE4DB}|EX2.vbproj|c:\\users\\massi\\source\\repos\\deadlyjoke\\vb.net_exercise\\ex2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4852E86C-6332-42DC-B7C6-465C169CE4DB}|EX2.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{409A96EF-28A4-4426-B60E-567DD95D2CA7}|EX2.vbproj|\\\\nt-ym1\\devsrc\\users\\poyu\\\u65B0\u4EBA_rd\\\u5289\u82E5\u6885\\ex2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{4852E86C-6332-42DC-B7C6-465C169CE4DB}|EX2.vbproj|c:\\users\\massi\\source\\repos\\deadlyjoke\\vb.net_exercise\\ex2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4852E86C-6332-42DC-B7C6-465C169CE4DB}|EX2.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
@@ -28,23 +30,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EX2.vb",
-              "DocumentMoniker": "\\\\nt-ym1\\Devsrc\\Users\\Poyu\\\u65B0\u4EBA_RD\\\u5289\u82E5\u6885\\EX2.vb",
-              "ToolTip": "\\\\nt-ym1\\Devsrc\\Users\\Poyu\\\u65B0\u4EBA_RD\\\u5289\u82E5\u6885\\EX2.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAwwA4AAAAZAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\massi\\source\\repos\\deadlyjoke\\vb.net_exercise\\EX2\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\massi\\source\\repos\\deadlyjoke\\vb.net_exercise\\EX2\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-07-25T01:37:32.878Z",
+              "WhenOpened": "2025-07-29T05:41:16.953Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EX2.vb [\u8A2D\u8A08]",
-              "DocumentMoniker": "\\\\nt-ym1\\Devsrc\\Users\\Poyu\\\u65B0\u4EBA_RD\\\u5289\u82E5\u6885\\EX2.vb",
-              "ToolTip": "\\\\nt-ym1\\Devsrc\\Users\\Poyu\\\u65B0\u4EBA_RD\\\u5289\u82E5\u6885\\EX2.vb [\u8A2D\u8A08]",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\massi\\source\\repos\\deadlyjoke\\vb.net_exercise\\EX2\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\massi\\source\\repos\\deadlyjoke\\vb.net_exercise\\EX2\\Form1.vb [\u8A2D\u8A08]",
+              "RelativeToolTip": "Form1.vb [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-07-25T01:34:20.603Z",
+              "WhenOpened": "2025-07-29T05:41:13.344Z",
               "EditorCaption": " [\u8A2D\u8A08]"
             }
           ]
