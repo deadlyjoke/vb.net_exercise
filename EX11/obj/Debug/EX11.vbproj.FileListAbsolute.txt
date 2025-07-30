@@ -1,0 +1,17 @@
+C:\Users\massi\source\repos\deadlyjoke\vb.net_exercise\EX11\bin\Debug\Database1.mdf
+C:\Users\massi\source\repos\deadlyjoke\vb.net_exercise\EX11\bin\Debug\Database1_log.ldf
+C:\Users\massi\source\repos\deadlyjoke\vb.net_exercise\EX11\bin\Debug\Database2.mdf
+C:\Users\massi\source\repos\deadlyjoke\vb.net_exercise\EX11\bin\Debug\Database2_log.ldf
+C:\Users\massi\source\repos\deadlyjoke\vb.net_exercise\EX11\bin\Debug\EX11.exe.config
+C:\Users\massi\source\repos\deadlyjoke\vb.net_exercise\EX11\bin\Debug\EX11.exe
+C:\Users\massi\source\repos\deadlyjoke\vb.net_exercise\EX11\bin\Debug\EX11.pdb
+C:\Users\massi\source\repos\deadlyjoke\vb.net_exercise\EX11\bin\Debug\EX11.xml
+C:\Users\massi\source\repos\deadlyjoke\vb.net_exercise\EX11\obj\Debug\EX11.vbproj.AssemblyReference.cache
+C:\Users\massi\source\repos\deadlyjoke\vb.net_exercise\EX11\obj\Debug\EX11.Form1.resources
+C:\Users\massi\source\repos\deadlyjoke\vb.net_exercise\EX11\obj\Debug\EX11.Resources.resources
+C:\Users\massi\source\repos\deadlyjoke\vb.net_exercise\EX11\obj\Debug\EX11.vbproj.GenerateResource.cache
+C:\Users\massi\source\repos\deadlyjoke\vb.net_exercise\EX11\obj\Debug\EX11.vbproj.CoreCompileInputs.cache
+C:\Users\massi\source\repos\deadlyjoke\vb.net_exercise\EX11\obj\Debug\EX11.exe
+C:\Users\massi\source\repos\deadlyjoke\vb.net_exercise\EX11\obj\Debug\EX11.xml
+C:\Users\massi\source\repos\deadlyjoke\vb.net_exercise\EX11\obj\Debug\EX11.pdb
+C:\Users\massi\source\repos\deadlyjoke\vb.net_exercise\EX11\obj\Debug\EX11.exe.config
