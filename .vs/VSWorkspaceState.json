@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\EX10"
+    "\\practice3",
+    "\\practice3\\MyApp",
+    "\\practice3\\MyLibrary"
   ],
+  "SelectedNode": "\\practice3\\MyApp\\MyApp.sln",
   "PreviewInSolutionExplorer": false
 }
