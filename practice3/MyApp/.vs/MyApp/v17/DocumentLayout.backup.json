@@ -24,7 +24,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -46,6 +46,10 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
@@ -56,7 +60,7 @@
               "RelativeDocumentMoniker": "..\\MyLibrary\\Class1.vb",
               "ToolTip": "C:\\Users\\massi\\source\\repos\\deadlyjoke\\vb.net_exercise\\practice3\\MyLibrary\\Class1.vb",
               "RelativeToolTip": "..\\MyLibrary\\Class1.vb",
-              "ViewState": "AgIAADUAAAAAAAAAAAAUwEgAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-08-04T06:30:06.625Z",
               "EditorCaption": ""
