@@ -1,0 +1,12 @@
+C:\Users\massi\source\repos\deadlyjoke\vb.net_exercise\EX2\bin\Debug\EX2.exe.config
+C:\Users\massi\source\repos\deadlyjoke\vb.net_exercise\EX2\bin\Debug\EX2.exe
+C:\Users\massi\source\repos\deadlyjoke\vb.net_exercise\EX2\bin\Debug\EX2.pdb
+C:\Users\massi\source\repos\deadlyjoke\vb.net_exercise\EX2\bin\Debug\EX2.xml
+C:\Users\massi\source\repos\deadlyjoke\vb.net_exercise\EX2\obj\Debug\EX2.vbproj.AssemblyReference.cache
+C:\Users\massi\source\repos\deadlyjoke\vb.net_exercise\EX2\obj\Debug\EX2.Form1.resources
+C:\Users\massi\source\repos\deadlyjoke\vb.net_exercise\EX2\obj\Debug\EX2.Resources.resources
+C:\Users\massi\source\repos\deadlyjoke\vb.net_exercise\EX2\obj\Debug\EX2.vbproj.GenerateResource.cache
+C:\Users\massi\source\repos\deadlyjoke\vb.net_exercise\EX2\obj\Debug\EX2.vbproj.CoreCompileInputs.cache
+C:\Users\massi\source\repos\deadlyjoke\vb.net_exercise\EX2\obj\Debug\EX2.exe
+C:\Users\massi\source\repos\deadlyjoke\vb.net_exercise\EX2\obj\Debug\EX2.xml
+C:\Users\massi\source\repos\deadlyjoke\vb.net_exercise\EX2\obj\Debug\EX2.pdb
