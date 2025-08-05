@@ -45,7 +45,7 @@ Module Module1
         Row5("Name") = "小剛"
         Row5("SEX") = "男"
         Row5("Blood") = "AB"
-        dt.Rows.Add(Row5
+        dt.Rows.Add(Row5)
 
         '------------------------------
         '方法一:使用LINQ 查詢 SEX = '男'

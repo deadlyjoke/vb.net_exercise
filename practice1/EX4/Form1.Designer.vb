@@ -54,7 +54,7 @@ Partial Class Form1
         Me.Controls.Add(Me.txtOutput)
         Me.Controls.Add(Me.btnCalculate)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "找出小於1000的質數"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 

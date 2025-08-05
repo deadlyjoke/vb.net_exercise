@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\massi\\source\\repos\\deadlyjoke\\vb.net_exercise\\EX12\\",
+  "WorkspaceRootPath": "C:\\Users\\massi\\source\\repos\\deadlyjoke\\vb.net_exercise\\practice1\\EX12\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ACAEF96A-3768-4CC0-9934-B41025857EF8}|EX12.vbproj|c:\\users\\massi\\source\\repos\\deadlyjoke\\vb.net_exercise\\ex12\\\u5171\u7528\u7BC4\u4F8B.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{ACAEF96A-3768-4CC0-9934-B41025857EF8}|EX12.vbproj|c:\\users\\massi\\source\\repos\\deadlyjoke\\vb.net_exercise\\practice1\\ex12\\\u5171\u7528\u7BC4\u4F8B.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{ACAEF96A-3768-4CC0-9934-B41025857EF8}|EX12.vbproj|solutionrelative:\u5171\u7528\u7BC4\u4F8B.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACAEF96A-3768-4CC0-9934-B41025857EF8}|EX12.vbproj|c:\\users\\massi\\source\\repos\\deadlyjoke\\vb.net_exercise\\ex12\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{ACAEF96A-3768-4CC0-9934-B41025857EF8}|EX12.vbproj|C:\\Users\\massi\\source\\repos\\deadlyjoke\\vb.net_exercise\\practice1\\EX12\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{ACAEF96A-3768-4CC0-9934-B41025857EF8}|EX12.vbproj|solutionrelative:class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "\u5171\u7528\u7BC4\u4F8B.vb",
-              "DocumentMoniker": "C:\\Users\\massi\\source\\repos\\deadlyjoke\\vb.net_exercise\\EX12\\\u5171\u7528\u7BC4\u4F8B.vb",
+              "DocumentMoniker": "C:\\Users\\massi\\source\\repos\\deadlyjoke\\vb.net_exercise\\practice1\\EX12\\\u5171\u7528\u7BC4\u4F8B.vb",
               "RelativeDocumentMoniker": "\u5171\u7528\u7BC4\u4F8B.vb",
-              "ToolTip": "C:\\Users\\massi\\source\\repos\\deadlyjoke\\vb.net_exercise\\EX12\\\u5171\u7528\u7BC4\u4F8B.vb",
+              "ToolTip": "C:\\Users\\massi\\source\\repos\\deadlyjoke\\vb.net_exercise\\practice1\\EX12\\\u5171\u7528\u7BC4\u4F8B.vb",
               "RelativeToolTip": "\u5171\u7528\u7BC4\u4F8B.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-07-30T03:32:25.732Z",
               "EditorCaption": ""
@@ -45,14 +45,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Class1.vb",
-              "DocumentMoniker": "C:\\Users\\massi\\source\\repos\\deadlyjoke\\vb.net_exercise\\EX12\\Class1.vb",
+              "DocumentMoniker": "C:\\Users\\massi\\source\\repos\\deadlyjoke\\vb.net_exercise\\practice1\\EX12\\Class1.vb",
               "RelativeDocumentMoniker": "Class1.vb",
-              "ToolTip": "C:\\Users\\massi\\source\\repos\\deadlyjoke\\vb.net_exercise\\EX12\\Class1.vb",
+              "ToolTip": "C:\\Users\\massi\\source\\repos\\deadlyjoke\\vb.net_exercise\\practice1\\EX12\\Class1.vb",
               "RelativeToolTip": "Class1.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-07-30T03:28:41.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T03:28:41.77Z"
             }
           ]
         }
