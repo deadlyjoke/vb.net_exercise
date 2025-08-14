@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\massi\\source\\repos\\deadlyjoke\\vb.net_exercise\\practice2\\MyLibrary\\",
+  "WorkspaceRootPath": "C:\\Users\\massi\\source\\repos\\deadlyjoke\\vb.net_exercise\\practice3\\MyLibrary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64385989-8C8A-4EF5-A6A1-D48EEFB03A35}|MyLibrary.vbproj|c:\\users\\massi\\source\\repos\\deadlyjoke\\vb.net_exercise\\practice2\\mylibrary\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{64385989-8C8A-4EF5-A6A1-D48EEFB03A35}|MyLibrary.vbproj|c:\\users\\massi\\source\\repos\\deadlyjoke\\vb.net_exercise\\practice3\\mylibrary\\class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{64385989-8C8A-4EF5-A6A1-D48EEFB03A35}|MyLibrary.vbproj|solutionrelative:class1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
@@ -14,12 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -28,14 +24,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Class1.vb",
-              "DocumentMoniker": "C:\\Users\\massi\\source\\repos\\deadlyjoke\\vb.net_exercise\\practice2\\MyLibrary\\Class1.vb",
+              "DocumentMoniker": "C:\\Users\\massi\\source\\repos\\deadlyjoke\\vb.net_exercise\\practice3\\MyLibrary\\Class1.vb",
               "RelativeDocumentMoniker": "Class1.vb",
-              "ToolTip": "C:\\Users\\massi\\source\\repos\\deadlyjoke\\vb.net_exercise\\practice2\\MyLibrary\\Class1.vb",
+              "ToolTip": "C:\\Users\\massi\\source\\repos\\deadlyjoke\\vb.net_exercise\\practice3\\MyLibrary\\Class1.vb",
               "RelativeToolTip": "Class1.vb",
-              "ViewState": "AgIAACUAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-08-04T05:34:12.051Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 100,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }
